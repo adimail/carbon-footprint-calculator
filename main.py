@@ -14,7 +14,7 @@ def main():
         page = option_menu(
             "Carbon footprint calculator", ["Home", "Model"],
             icons=["house-door-fill", "tools"],
-            menu_icon="camera",
+            menu_icon="tree-fill",
             default_index=1
         )
 
